@@ -236,13 +236,19 @@ body {
   text-align: center;
 }
 
+.comparison-paragraph {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
 .comparison-image {
   /* Box-model */
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
   margin-top: 20px;
   margin-right: 20px;
-  
+  margin: auto;    
+  display: block;
 }
 
 /* ----COMPARISON END---- */
