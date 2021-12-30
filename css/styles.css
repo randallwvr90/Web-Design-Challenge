@@ -236,6 +236,15 @@ body {
   text-align: center;
 }
 
+.comparison-image {
+  /* Box-model */
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-right: 20px;
+  
+}
+
 /* ----COMPARISON END---- */
 
 /* ----FOOTER START---- */
